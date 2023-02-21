@@ -1,3 +1,3 @@
 # Ping-pong-Game-
-file:///Users/sumit/Downloads/Alarm%20App/index.html
+https://sumit701166.github.io/Ping-pong-Game-/
 To move use A and D 
